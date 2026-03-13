@@ -1,2 +1,2 @@
-# Exerc-cios-de-L-gica-de-Programa-o-em-Portugol
-Residência em TIC/ Software Serratec
+# Exercícios-Lógica-de-Programação-em-Portugol
+Residência em Software Serratec - SENAI/Firjan
